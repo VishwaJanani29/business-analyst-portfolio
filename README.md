@@ -42,8 +42,6 @@ Currently pursuing
 
 ## Professional Background
 
-## Professional Background
-
 **4 Years of IT Industry Experience**
 
 Experienced IT professional with approximately four years of experience contributing to telecom and fintech projects, with capabilities spanning Project Analysis and Scrum Master responsibilities.
