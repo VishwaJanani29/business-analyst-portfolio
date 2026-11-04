@@ -28,4 +28,6 @@ Refer to `Retail_Sales_Analysis_Tableau_Dashboard_Documentation.md` for the deta
 
 ## Dashboard Preview
 
-![Retail Sales Performance Dashboard](images/retail-sales-performance-dashboard.png)
+![Retail Sales Performance Dashboard]
+<img width="1536" height="1024" alt="Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/856a53fa-aa57-487d-a464-d6ef61c94600" />
+
