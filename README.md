@@ -42,8 +42,17 @@ Currently pursuing
 
 ## Professional Background
 
-Approximately four years of IT industry experience, including Scrum Master responsibilities and exposure to telecom and fintech projects.
+## Professional Background
 
+**4 Years of IT Industry Experience**
+
+Experienced IT professional with approximately four years of experience contributing to telecom and fintech projects, with capabilities spanning Project Analysis and Scrum Master responsibilities.
+
+- **Project Analyst Capabilities:** Project coordination, requirement understanding, stakeholder communication, documentation, tracking project activities, monitoring deliverables and supporting cross-functional teams.
+- **Scrum Master Capabilities:** Agile and Scrum practices, sprint planning, daily stand-ups, sprint reviews, retrospectives, team coordination, impediment tracking and facilitating continuous improvement.
+- **Domain Exposure:** Experience working on projects in the telecommunications and financial technology (FinTech) domains.
+
+**Certification:** Professional Scrum Master I (PSM I)
 ## Portfolio Objective
 
 To demonstrate practical Business Analysis and Business Analytics capabilities through structured, evidence-based projects and real-world business scenarios.
