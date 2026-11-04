@@ -25,3 +25,7 @@ The Tableau workbook contains 10 worksheets and one consolidated dashboard.
 ## Documentation
 
 Refer to `Retail_Sales_Analysis_Tableau_Dashboard_Documentation.md` for the detailed explanation of the data model, calculated fields, worksheets, dashboard design and business insights.
+
+## Dashboard Preview
+
+![Retail Sales Performance Dashboard](images/retail-sales-performance-dashboard.png)
